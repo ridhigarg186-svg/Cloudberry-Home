@@ -1,0 +1,6 @@
+{
+  "name": "Cloudberry Home",
+  "description": "Modern luxury home decor and aesthetic interior accents. Handcrafted ceramics, ambient lighting, linen cushions, and curated room inspirations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

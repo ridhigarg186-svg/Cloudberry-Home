@@ -1,0 +1,147 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  
+  /* Cloudberry Home Luxury Color Palette */
+  /* Main website background: Warm Ivory */
+  --color-warm-ivory: #FAF6F0;
+  /* Header and navigation background: Soft Cream */
+  --color-soft-cream: #F5F0E6;
+  /* Main content sections: Light beige */
+  --color-light-beige: #F2ECE1;
+  /* Product and collection cards: Pure Warm White */
+  --color-warm-white: #FCFAF6;
+  /* Alternate section backgrounds: Soft Greige */
+  --color-soft-greige: #EDE7DE;
+  /* Footer background: Deep Espresso Brown */
+  --color-espresso-deep: #1E1610;
+  /* Primary buttons & deep accents: Dark Chocolate Brown */
+  --color-chocolate-dark: #2A1E17;
+  /* Button hover color: Muted Walnut */
+  --color-walnut-muted: #3D2C22;
+  /* Borders and dividers: Light Taupe */
+  --color-taupe-light: #E2D9CC;
+  /* Accent color: Soft Champagne Gold */
+  --color-champagne-gold: #C8A46B;
+  --color-champagne-light: #E8D7BE;
+  /* Main headings: Rich Espresso */
+  --color-heading-espresso: #201610;
+  /* Body text: Warm Charcoal */
+  --color-charcoal-warm: #483D35;
+  --color-charcoal-muted: #6E6157;
+  
+  --color-sage: #8A9A86;
+  --color-sage-dark: #6D7E69;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    background-color: #FAF6F0;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #FAF6F0;
+    color: #483D35;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6, .font-serif {
+    font-family: var(--font-serif);
+    color: #201610;
+  }
+}
+
+/* Custom subtle scrollbars in luxury neutral palette */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F5F0E6;
+}
+::-webkit-scrollbar-thumb {
+  background: #E2D9CC;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C8A46B;
+}
+
+/* Luxury Interactive Utility Classes */
+.luxury-card {
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.35s ease;
+}
+.luxury-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 35px -10px rgba(32, 22, 16, 0.12), 0 6px 12px -3px rgba(32, 22, 16, 0.05);
+}
+
+.luxury-btn-primary {
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.luxury-btn-primary:hover {
+  transform: translateY(-1.5px);
+  box-shadow: 0 10px 22px -6px rgba(42, 30, 23, 0.32);
+}
+.luxury-btn-primary:active {
+  transform: translateY(0);
+}
+
+.luxury-btn-secondary {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.luxury-btn-secondary:hover {
+  transform: translateY(-1.5px);
+  border-color: #201610;
+  background-color: #EDE7DE;
+  box-shadow: 0 6px 16px -6px rgba(32, 22, 16, 0.1);
+}
+
+.nav-link-underline {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  transition: color 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.nav-link-underline::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 2px;
+  background-color: #C8A46B;
+  transition: width 0.3s cubic-bezier(0.16, 1, 0.3, 1), left 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.nav-link-underline:hover::after,
+.nav-link-underline.active::after {
+  width: 100%;
+  left: 0;
+}
+
+@keyframes heartBounce {
+  0% { transform: scale(1); }
+  35% { transform: scale(1.32); }
+  65% { transform: scale(0.92); }
+  100% { transform: scale(1); }
+}
+
+.animate-heart-bounce {
+  animation: heartBounce 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+/* Reduced Motion Support for Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,2454 @@
+{
+  "products": [
+    {
+      "id": "prod-01",
+      "name": "Aura Ribbed Stoneware Vase",
+      "slug": "aura-ribbed-stoneware-vase",
+      "category": "Vases",
+      "categorySlug": "vases",
+      "collections": [
+        "The Neutral Edit",
+        "Slow Living"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Dining Room"
+      ],
+      "price": 3250,
+      "originalPrice": 3850,
+      "discountPercent": 15,
+      "shortDescription": "Hand-thrown textured ceramic vase with soft undulating vertical ribs.",
+      "description": "Crafted from coarse unglazed stoneware with a hand-applied sandy matte finish. The Aura vase brings organic architectural presence to console tables and dining displays with its subtle fluted silhouette.",
+      "details": {
+        "dimensions": "28 cm H x 18 cm W x 18 cm D",
+        "material": "Handcrafted Stoneware Clay",
+        "finish": "Matte Sandy Bisque",
+        "care": "Wipe with soft damp cloth. Waterproof glazed interior.",
+        "weight": "1.85 kg",
+        "origin": "Khurja, Uttar Pradesh (Artisan Guild)"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 17,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "rating": 4.9,
+      "reviewCount": 34,
+      "colors": [
+        {
+          "name": "Warm Bone",
+          "hex": "#EFECE6"
+        },
+        {
+          "name": "Mocha Clay",
+          "hex": "#7A5C43"
+        },
+        {
+          "name": "Earthy Terracotta",
+          "hex": "#A86D58"
+        }
+      ],
+      "tags": [
+        "Vase",
+        "Ceramic",
+        "Stoneware",
+        "Centerpiece",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "prod-02",
+      "name": "Alabaster Glow Table Lamp",
+      "slug": "alabaster-glow-table-lamp",
+      "category": "Lamps",
+      "categorySlug": "lamps",
+      "collections": [
+        "The Little Luxuries",
+        "The Neutral Edit"
+      ],
+      "roomTags": [
+        "Bedroom",
+        "Living Room"
+      ],
+      "price": 6800,
+      "originalPrice": 7990,
+      "discountPercent": 15,
+      "shortDescription": "Translucent Spanish alabaster base with brushed solid brass collar and warm linen drum shade.",
+      "description": "A statement lamp that diffuses a warm, buttery light. The natural veining of each solid stone alabaster cylinder ensures no two lamps are identical, while the brushed brass hardware lends quiet luxury.",
+      "details": {
+        "dimensions": "44 cm H x 26 cm Diameter",
+        "material": "Natural Alabaster Stone & Solid Brass",
+        "finish": "Honed Alabaster with Brushed Brass",
+        "care": "Dust with dry microfiber cloth. Compatible with E27 warm LED bulbs (included).",
+        "weight": "3.4 kg",
+        "origin": "Crafted in Jaipur, Rajasthan"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&w=1200&q=88",
+        "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1200&q=88",
+        "https://images.unsplash.com/photo-1534349762230-e0cadf78f5da?auto=format&fit=crop&w=1200&q=88"
+      ],
+      "inStock": true,
+      "stockCount": 9,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "rating": 5,
+      "reviewCount": 28,
+      "colors": [
+        {
+          "name": "Natural Alabaster",
+          "hex": "#F7F5F0"
+        },
+        {
+          "name": "Smoked Quartz",
+          "hex": "#D6CFC7"
+        }
+      ],
+      "tags": [
+        "Lighting",
+        "Lamp",
+        "Alabaster",
+        "Brass",
+        "Bedside"
+      ]
+    },
+    {
+      "id": "prod-03",
+      "name": "Belgian Washed Linen Cushion Cover (Set of 2)",
+      "slug": "belgian-washed-linen-cushion-cover",
+      "category": "Cushions",
+      "categorySlug": "cushions",
+      "collections": [
+        "The Neutral Edit",
+        "Slow Living"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom",
+        "Reading Corner"
+      ],
+      "price": 2450,
+      "originalPrice": 2990,
+      "discountPercent": 18,
+      "shortDescription": "Pre-washed 100% natural European flax linen with hand-frayed raw fringe edges.",
+      "description": "Elevate your sofa or bed with breathable, stone-washed Belgian linen. Naturally temperature regulating and softening with every wash, these covers feature discreet concealed YKK zippers and delicate fringed detailing.",
+      "details": {
+        "dimensions": "50 cm x 50 cm (20\" x 20\")",
+        "material": "100% Pure Flax Linen (240 GSM)",
+        "finish": "Enzyme Washed for Supreme Softness",
+        "care": "Gentle machine wash cold with mild detergent. Line dry in shade.",
+        "weight": "0.45 kg",
+        "origin": "Woven in Bhagalpur, Bihar"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 42,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "rating": 4.8,
+      "reviewCount": 52,
+      "colors": [
+        {
+          "name": "Oatmeal Beige",
+          "hex": "#DFD5C6"
+        },
+        {
+          "name": "Sage Leaf",
+          "hex": "#8A9A86"
+        },
+        {
+          "name": "Mocha Espresso",
+          "hex": "#4A3728"
+        },
+        {
+          "name": "Ivory Cream",
+          "hex": "#FFFDF9"
+        }
+      ],
+      "tags": [
+        "Cushion",
+        "Linen",
+        "Pillow Cover",
+        "Living Room",
+        "Textiles"
+      ]
+    },
+    {
+      "id": "prod-04",
+      "name": "Travertine Scalloped Centerpiece Bowl",
+      "slug": "travertine-scalloped-centerpiece-bowl",
+      "category": "Table Decor",
+      "categorySlug": "table-decor",
+      "collections": [
+        "The Little Luxuries",
+        "The Neutral Edit"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Dining Room"
+      ],
+      "price": 4900,
+      "originalPrice": 5600,
+      "discountPercent": 12,
+      "shortDescription": "Solid honed Italian travertine stone sculpted with soft artisanal scalloped petals.",
+      "description": "Hewn from a single block of natural beige travertine stone with distinctive porous pockets and creamy strata. Functions as a breathtaking fruit bowl, key catchall, or sculptural focal point on any coffee table.",
+      "details": {
+        "dimensions": "26 cm Diameter x 9 cm H",
+        "material": "100% Natural Roman Travertine",
+        "finish": "Matte Honed & Sealed",
+        "care": "Wipe clean with a damp cloth. Avoid harsh citrus or acid cleaners.",
+        "weight": "2.9 kg",
+        "origin": "Precision Hand-Carved in Udaipur"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 12,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 19,
+      "colors": [
+        {
+          "name": "Warm Travertine",
+          "hex": "#E5DACD"
+        },
+        {
+          "name": "Ivory Marble",
+          "hex": "#F4EFEB"
+        }
+      ],
+      "tags": [
+        "Travertine",
+        "Bowl",
+        "Centerpiece",
+        "Stone",
+        "Luxury"
+      ]
+    },
+    {
+      "id": "prod-05",
+      "name": "Sandalwood & Wild Fig Ceramic Scented Candle",
+      "slug": "sandalwood-wild-fig-ceramic-scented-candle",
+      "category": "Candles",
+      "categorySlug": "candles",
+      "collections": [
+        "Slow Living",
+        "The Little Luxuries"
+      ],
+      "roomTags": [
+        "Bedroom",
+        "Living Room",
+        "Entryway"
+      ],
+      "price": 1850,
+      "originalPrice": 2200,
+      "discountPercent": 16,
+      "shortDescription": "Organic soy wax with double wooden crackling wick poured into reusable terracotta vessel.",
+      "description": "An evocative olfactory journey opening with fresh green fig leaves, velvety sandalwood, and comforting vanilla amber. Features an untreated crackling wood wick that burns with a soft hearth-like whisper for 65+ hours.",
+      "details": {
+        "dimensions": "10 cm H x 9 cm Diameter (320g wax)",
+        "material": "100% Natural Soy Wax & Essential Oils",
+        "finish": "Hand-thrown Ceramic Pot with Timber Lid",
+        "care": "Trim wick to 5mm before every lighting. Burn for 2-3 hours initially.",
+        "weight": "0.75 kg",
+        "origin": "Hand-Poured in Auroville, Tamil Nadu"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 35,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "rating": 4.9,
+      "reviewCount": 67,
+      "colors": [
+        {
+          "name": "Warm Terracotta",
+          "hex": "#C2846D"
+        },
+        {
+          "name": "Oatmeal Bisque",
+          "hex": "#DFD8CC"
+        },
+        {
+          "name": "Charcoal Clay",
+          "hex": "#423B38"
+        }
+      ],
+      "tags": [
+        "Candle",
+        "Aromatherapy",
+        "Soy Candle",
+        "Wood Wick",
+        "Scented"
+      ]
+    },
+    {
+      "id": "prod-06",
+      "name": "Elysian Arch Brass Wall Mirror",
+      "slug": "elysian-arch-brass-wall-mirror",
+      "category": "Mirrors",
+      "categorySlug": "mirrors",
+      "collections": [
+        "The Little Luxuries",
+        "The Neutral Edit"
+      ],
+      "roomTags": [
+        "Entryway",
+        "Bedroom",
+        "Living Room"
+      ],
+      "price": 9200,
+      "originalPrice": 11500,
+      "discountPercent": 20,
+      "shortDescription": "Gentle arched silhouette encased in a slender solid antique brass frame.",
+      "description": "Brings spatial depth, gentle reflected sunlight, and architectural grace into any hallway, bedroom, or living area. Features distortion-free 5mm silvered glass backed by solid moisture-resistant engineered timber.",
+      "details": {
+        "dimensions": "90 cm H x 60 cm W x 3 cm D",
+        "material": "Solid Brass Frame & High-Definition Glass",
+        "finish": "Satin Antique Brass",
+        "care": "Clean glass with standard glass cleaner; wipe frame with dry cloth.",
+        "weight": "7.8 kg",
+        "origin": "Hand-Forged in Moradabad, Uttar Pradesh"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 6,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 22,
+      "colors": [
+        {
+          "name": "Antique Brass",
+          "hex": "#C5A880"
+        },
+        {
+          "name": "Matte Mocha Bronze",
+          "hex": "#5E4839"
+        }
+      ],
+      "tags": [
+        "Mirror",
+        "Arch Mirror",
+        "Brass",
+        "Entryway",
+        "Wall Decor"
+      ]
+    },
+    {
+      "id": "prod-07",
+      "name": "Solitude Minimalist Plaster Relief Art",
+      "slug": "solitude-minimalist-plaster-relief-art",
+      "category": "Wall Art",
+      "categorySlug": "wall-art",
+      "collections": [
+        "The Neutral Edit",
+        "Slow Living"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom",
+        "Reading Corner"
+      ],
+      "price": 5400,
+      "originalPrice": 6200,
+      "discountPercent": 13,
+      "shortDescription": "Hand-textured gypsum plaster relief with organic geometric curves framed in natural white oak.",
+      "description": "An original tactile dimensional artwork inspired by wabi-sabi principles and desert dunes. As ambient room light shifts throughout the day, the contoured ridges cast soothing, ever-changing soft shadows across your wall.",
+      "details": {
+        "dimensions": "75 cm H x 55 cm W x 4.5 cm D",
+        "material": "Mineral Gypsum Plaster on Canvas, Solid White Oak Frame",
+        "finish": "Raw Lime-Wash Plaster Texture",
+        "care": "Gently dust with a soft bristle brush. Keep away from direct water splashes.",
+        "weight": "4.2 kg",
+        "origin": "Studio Cloudberry Exclusive Artist Guild"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 8,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 5,
+      "reviewCount": 15,
+      "colors": [
+        {
+          "name": "Chalk Plaster",
+          "hex": "#F6F3EE"
+        },
+        {
+          "name": "Warm Sand",
+          "hex": "#E2D8CB"
+        }
+      ],
+      "tags": [
+        "Wall Art",
+        "Plaster",
+        "Minimalist",
+        "Oak Frame",
+        "Living Room"
+      ]
+    },
+    {
+      "id": "prod-08",
+      "name": "Tuscany Real-Touch Olive Branch Faux Stems",
+      "slug": "tuscany-real-touch-olive-branch-faux-stems",
+      "category": "Artificial Flowers",
+      "categorySlug": "artificial-flowers",
+      "collections": [
+        "Nature at Home",
+        "Slow Living"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Dining Room"
+      ],
+      "price": 1650,
+      "originalPrice": 1950,
+      "discountPercent": 15,
+      "shortDescription": "Bundle of 3 bendable lifelike olive foliage branches with realistic fruit details.",
+      "description": "Bring everlasting Mediterranean botanical serenity into your home. Each flexible stem features hand-painted silk leaves with silvery underside veining and authentic petite olive fruits that drape naturally in oversized vases.",
+      "details": {
+        "dimensions": "95 cm Length (set of 3 tall stems)",
+        "material": "Real-Touch Polymer & Silk Composite with Internal Wire Core",
+        "finish": "Dusty Sage Green with Muted Olive Tones",
+        "care": "Wipe leaves with dry cloth or blow with cool hairdryer setting.",
+        "weight": "0.35 kg",
+        "origin": "Imported Master Florals"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 28,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "rating": 4.8,
+      "reviewCount": 41,
+      "colors": [
+        {
+          "name": "Dusty Sage",
+          "hex": "#7A8C78"
+        }
+      ],
+      "tags": [
+        "Faux Botanical",
+        "Olive Branch",
+        "Stems",
+        "Greenery",
+        "Vase Decor"
+      ]
+    },
+    {
+      "id": "prod-09",
+      "name": "Nordic Organic Wool & Cotton Waffle Throw",
+      "slug": "nordic-organic-wool-cotton-waffle-throw",
+      "category": "Throws",
+      "categorySlug": "throws",
+      "collections": [
+        "The Neutral Edit",
+        "Slow Living",
+        "Seasonal Beauty"
+      ],
+      "roomTags": [
+        "Bedroom",
+        "Living Room",
+        "Reading Corner"
+      ],
+      "price": 3890,
+      "originalPrice": 4600,
+      "discountPercent": 15,
+      "shortDescription": "Plush honeycomb waffle weave blanket blended from GOTS organic cotton and fine merino wool.",
+      "description": "Incredibly cozy, breathable, and beautifully dimensional. Drapes effortlessly over the arm of a cream sofa or along the foot of a linen-dressed bed, offering tactile comforting warmth without excessive weight.",
+      "details": {
+        "dimensions": "140 cm x 200 cm (55\" x 79\")",
+        "material": "70% Organic Combed Cotton, 30% Fine Merino Wool",
+        "finish": "Dimensional Deep Honeycomb Weave",
+        "care": "Dry clean recommended or hand wash cold with wool wash. Dry flat.",
+        "weight": "1.2 kg",
+        "origin": "Woven in Panipat, Haryana"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1540518614846-7ede433c4ef4?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 19,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "rating": 4.9,
+      "reviewCount": 38,
+      "colors": [
+        {
+          "name": "Soft Cream",
+          "hex": "#F6F2EA"
+        },
+        {
+          "name": "Mocha Taupe",
+          "hex": "#6D5B4F"
+        },
+        {
+          "name": "Muted Moss",
+          "hex": "#8F9B8B"
+        }
+      ],
+      "tags": [
+        "Throw",
+        "Blanket",
+        "Wool",
+        "Waffle Weave",
+        "Bedding"
+      ]
+    },
+    {
+      "id": "prod-10",
+      "name": "Atelier Hand-Carved Mango Wood Pedestal Tray",
+      "slug": "atelier-hand-carved-mango-wood-pedestal-tray",
+      "category": "Storage & Handmade Decor",
+      "categorySlug": "storage",
+      "collections": [
+        "Nature at Home",
+        "Slow Living"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Kitchen",
+        "Dining Room"
+      ],
+      "price": 2800,
+      "originalPrice": 3400,
+      "discountPercent": 18,
+      "shortDescription": "Solid sustainably harvested mango wood footed riser tray with smooth curved lip.",
+      "description": "Carved by generational artisans from seasoned mango wood, highlighting the rich swirling grain and warm golden undertones. Perfect for elevating perfume bottles, ceramic mugs, or artisanal candles.",
+      "details": {
+        "dimensions": "32 cm Diameter x 6 cm H",
+        "material": "100% Solid Seasoned Mango Wood",
+        "finish": "Natural Matte Beeswax Food-Safe Seal",
+        "care": "Wipe with damp cloth. Nourish periodically with organic mineral oil.",
+        "weight": "1.4 kg",
+        "origin": "Artisan Wood Guild, Saharanpur"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 15,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 4.7,
+      "reviewCount": 18,
+      "colors": [
+        {
+          "name": "Natural Mango",
+          "hex": "#BD9B76"
+        },
+        {
+          "name": "Dark Smoked Walnut",
+          "hex": "#4F3F34"
+        }
+      ],
+      "tags": [
+        "Wood Tray",
+        "Handmade",
+        "Mango Wood",
+        "Table Decor",
+        "Pedestal"
+      ]
+    },
+    {
+      "id": "prod-11",
+      "name": "Zenith Footed Ceramic Planter",
+      "slug": "zenith-footed-ceramic-planter",
+      "category": "Planters",
+      "categorySlug": "planters",
+      "collections": [
+        "Nature at Home",
+        "The Neutral Edit"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "price": 2190,
+      "originalPrice": 2600,
+      "discountPercent": 15,
+      "shortDescription": "Elevated terracotta planter on three architectural pedestal feet with speckled stoneware finish.",
+      "description": "Elevates your favorite indoor flora (fiddle leaf fig, monstera, or snake plant) while maintaining a clean sculptural look. Includes interior drainage plug and silicone feet protectors for wood surfaces.",
+      "details": {
+        "dimensions": "22 cm Diameter x 25 cm H",
+        "material": "High-Fired Clay Ceramic",
+        "finish": "Matte Speckled Sandstone Glaze",
+        "care": "Wipe exterior with damp cloth. Suitable for indoor and sheltered outdoor use.",
+        "weight": "2.1 kg",
+        "origin": "Khurja Pottery Workshop"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 21,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "rating": 4.9,
+      "reviewCount": 33,
+      "colors": [
+        {
+          "name": "Sandstone Speckle",
+          "hex": "#EBE6DC"
+        },
+        {
+          "name": "Mocha Charcoal",
+          "hex": "#524A45"
+        }
+      ],
+      "tags": [
+        "Planter",
+        "Pots",
+        "Ceramic",
+        "Indoor Plant",
+        "Footed"
+      ]
+    },
+    {
+      "id": "prod-12",
+      "name": "Komorebi Brushed Brass Minimalist Mantel Clock",
+      "slug": "komorebi-brushed-brass-minimalist-mantel-clock",
+      "category": "Living Room Decor",
+      "categorySlug": "living-room-decor",
+      "collections": [
+        "The Little Luxuries"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Reading Corner"
+      ],
+      "price": 3600,
+      "originalPrice": 4200,
+      "discountPercent": 14,
+      "shortDescription": "Silent sweeping clock crafted from solid spun brass with an ivory brushed face.",
+      "description": "A whisper-quiet timekeeper with an ultra-accurate Japanese quartz movement. Features refined solid brass hour markers and slender tapered hands, designed to add understated refinement to your fireplace mantel or desk.",
+      "details": {
+        "dimensions": "16 cm Diameter x 5 cm Depth",
+        "material": "Solid Spun Brass & Mineral Glass Face",
+        "finish": "Brushed Muted Gold with Protective Lacquer",
+        "care": "Wipe with soft lint-free cloth. Requires 1 AA battery (included).",
+        "weight": "0.85 kg",
+        "origin": "Precision Crafted in Delhi"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 14,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 24,
+      "colors": [
+        {
+          "name": "Muted Gold",
+          "hex": "#C5A880"
+        },
+        {
+          "name": "Burnished Bronze",
+          "hex": "#70543F"
+        }
+      ],
+      "tags": [
+        "Clock",
+        "Brass",
+        "Living Room",
+        "Desk Decor",
+        "Silent"
+      ]
+    },
+    {
+      "id": "prod-13",
+      "name": "Cast Brass Sculptural Knot Paperweight",
+      "slug": "cast-brass-sculptural-knot-paperweight",
+      "category": "Table Decor",
+      "categorySlug": "table-decor",
+      "collections": [
+        "The Little Luxuries"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Reading Corner"
+      ],
+      "price": 1950,
+      "originalPrice": 2400,
+      "discountPercent": 19,
+      "shortDescription": "Weighty entwined continuous loop cast from pure solid golden brass.",
+      "description": "An abstract mathematical continuous knot that serves as both a functional paperweight and an intriguing tactile objet d’art atop coffee table art books.",
+      "details": {
+        "dimensions": "12 cm W x 10 cm D x 8 cm H",
+        "material": "100% Solid Cast Brass",
+        "finish": "Hand-Polished Satin Matte",
+        "care": "Natural patina develops over time. Polish with brass cleaner if high shine is preferred.",
+        "weight": "0.92 kg",
+        "origin": "Artisan Metalworks, Aligarh"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 16,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "rating": 4.8,
+      "reviewCount": 19,
+      "colors": [
+        {
+          "name": "Golden Brass",
+          "hex": "#C5A880"
+        }
+      ],
+      "tags": [
+        "Brass",
+        "Sculpture",
+        "Knot",
+        "Objet",
+        "Coffee Table"
+      ]
+    },
+    {
+      "id": "prod-14",
+      "name": "Lumière Pleated Paper Pendant Light",
+      "slug": "lumiere-pleated-paper-pendant-light",
+      "category": "Lighting",
+      "categorySlug": "lighting",
+      "collections": [
+        "The Neutral Edit",
+        "Slow Living"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom",
+        "Dining Room"
+      ],
+      "price": 4600,
+      "originalPrice": 5500,
+      "discountPercent": 16,
+      "shortDescription": "Origami-folded heavy washi paper pendant shade with brass ceiling canopy.",
+      "description": "Inspired by classic Japanese lantern architecture and Scandinavian minimalism. The geometric pleated paper diffuses a soft, shadow-free illumination that transforms dining nooks and bedrooms into serene sanctuaries.",
+      "details": {
+        "dimensions": "45 cm Diameter x 32 cm H (1.5m adjustable fabric cord)",
+        "material": "Tear-Resistant Mineral Washi Paper & Solid Brass Canopy",
+        "finish": "Natural Ivory Paper with Warm Brass Hardware",
+        "care": "Dust with soft feather duster. Use warm LED bulb max 12W.",
+        "weight": "0.95 kg",
+        "origin": "Studio Cloudberry Hand-Pleated"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 10,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 16,
+      "colors": [
+        {
+          "name": "Ivory Washi",
+          "hex": "#FDFBF7"
+        },
+        {
+          "name": "Raw Kraft Paper",
+          "hex": "#D7C4A8"
+        }
+      ],
+      "tags": [
+        "Lighting",
+        "Pendant",
+        "Paper Lamp",
+        "Origami",
+        "Dining Room"
+      ]
+    },
+    {
+      "id": "prod-15",
+      "name": "Heritage Woven Jute & Cotton Storage Basket",
+      "slug": "heritage-woven-jute-cotton-storage-basket",
+      "category": "Storage & Handmade Decor",
+      "categorySlug": "storage",
+      "collections": [
+        "Nature at Home",
+        "Slow Living"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "price": 2200,
+      "originalPrice": 2700,
+      "discountPercent": 18,
+      "shortDescription": "Heavy-gauge braided natural golden jute and unbleached cotton floor basket with handles.",
+      "description": "Keep extra throws, linen cushions, or reading materials neatly organized in natural style. Hand-coiled by skilled women artisans using renewable natural fibres that bring rich tactile warmth to bare floorboards.",
+      "details": {
+        "dimensions": "40 cm Diameter x 38 cm H",
+        "material": "100% Biodegradable Golden Jute & Raw Cotton Cord",
+        "finish": "Natural Fiber Weave with Reinforced Integrated Handles",
+        "care": "Spot clean with mild soapy water. Keep dry.",
+        "weight": "1.6 kg",
+        "origin": "Kolkata Sustainable Weavers Collective"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 24,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "rating": 4.8,
+      "reviewCount": 29,
+      "colors": [
+        {
+          "name": "Natural Jute",
+          "hex": "#CDB18B"
+        },
+        {
+          "name": "Two-Tone Charcoal",
+          "hex": "#63584F"
+        }
+      ],
+      "tags": [
+        "Storage",
+        "Basket",
+        "Jute",
+        "Handwoven",
+        "Living Room"
+      ]
+    },
+    {
+      "id": "prod-16",
+      "name": "Wabi-Sabi Sandstone Amphora Vase",
+      "slug": "wabi-sabi-sandstone-amphora-vase",
+      "category": "Vases",
+      "categorySlug": "vases",
+      "collections": [
+        "The Neutral Edit",
+        "Nature at Home"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Entryway"
+      ],
+      "price": 3800,
+      "originalPrice": 4400,
+      "discountPercent": 13,
+      "shortDescription": "Dual-handled sculptural ceramic amphora with distressed sandstone texture.",
+      "description": "A contemporary reinterpretation of classical antiquities. Hand-built with intentional asymmetries and a coarse pitted exterior that looks excavated from an ancient sun-drenched courtyard.",
+      "details": {
+        "dimensions": "34 cm H x 24 cm W x 20 cm D",
+        "material": "Terracotta Clay with Sand Engobe",
+        "finish": "Coarse Matte Sandstone",
+        "care": "Clean with dry brush. Suitable for dried branches and botanical arrangements.",
+        "weight": "2.6 kg",
+        "origin": "Crafted in Jaipur Ceramics Studio"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 11,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 5,
+      "reviewCount": 14,
+      "colors": [
+        {
+          "name": "Desert Sandstone",
+          "hex": "#D8C9B4"
+        },
+        {
+          "name": "Smoked Mocha",
+          "hex": "#685647"
+        }
+      ],
+      "tags": [
+        "Vase",
+        "Amphora",
+        "Sculptural",
+        "Earthy",
+        "Antiquity"
+      ]
+    },
+    {
+      "id": "prod-17",
+      "name": "Oatmeal Hand-Tufted Bouclé Wool Rug",
+      "slug": "oatmeal-hand-tufted-boucle-wool-rug",
+      "category": "Rugs & Carpets",
+      "categorySlug": "rugs-carpets",
+      "collections": [
+        "The Neutral Edit",
+        "Slow Living"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "price": 18500,
+      "originalPrice": 22000,
+      "discountPercent": 16,
+      "shortDescription": "Plush hand-tufted 100% New Zealand wool area rug in warm heathered oatmeal bouclé.",
+      "description": "Woven with dense, irregular bouclé loops from unbleached New Zealand wool. Naturally stain-resistant, exceptionally soft underfoot, and finished with organic cotton canvas backing.",
+      "details": {
+        "dimensions": "180 cm x 240 cm (6ft x 8ft)",
+        "material": "100% Pure Virgin Wool & Organic Cotton Backing",
+        "finish": "Hand-Tufted Bouclé Pile (18mm)",
+        "care": "Vacuum regularly on low suction without beater bar. Professional rug clean only.",
+        "weight": "9.4 kg",
+        "origin": "Hand-Tufted in Bhadohi, Uttar Pradesh"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 8,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 21,
+      "colors": [
+        {
+          "name": "Heathered Oatmeal",
+          "hex": "#DFD8CC"
+        },
+        {
+          "name": "Warm Biscuit",
+          "hex": "#C9BAA7"
+        }
+      ],
+      "tags": [
+        "Rug",
+        "Carpet",
+        "Wool",
+        "Boucle",
+        "Living Room"
+      ]
+    },
+    {
+      "id": "prod-18",
+      "name": "Heirloom Handwoven Jute & Wool Runner",
+      "slug": "heirloom-handwoven-jute-wool-runner",
+      "category": "Rugs & Carpets",
+      "categorySlug": "rugs-carpets",
+      "collections": [
+        "Nature at Home"
+      ],
+      "roomTags": [
+        "Entryway",
+        "Living Room",
+        "Kitchen"
+      ],
+      "price": 6800,
+      "originalPrice": 7900,
+      "discountPercent": 14,
+      "shortDescription": "Subtle herringbone runner handwoven from unbleached golden jute and creamy wool.",
+      "description": "Designed for hallways, kitchen galley runs, and bedside warmth. Heavyweight flatweave construction built to endure daily foot traffic with relaxed organic elegance.",
+      "details": {
+        "dimensions": "75 cm x 240 cm (2.5ft x 8ft)",
+        "material": "60% Natural Golden Jute, 40% Raw Wool",
+        "finish": "Reversible Flatweave Herringbone",
+        "care": "Shake out outdoors; spot clean with damp cloth.",
+        "weight": "3.8 kg",
+        "origin": "Artisan Loom Guild, Mirzapur"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1579656381226-5fc0f0100c3b?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 12,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "rating": 4.8,
+      "reviewCount": 17,
+      "colors": [
+        {
+          "name": "Natural Jute",
+          "hex": "#D2B997"
+        }
+      ],
+      "tags": [
+        "Runner",
+        "Jute",
+        "Rug",
+        "Handwoven",
+        "Entryway"
+      ]
+    },
+    {
+      "id": "prod-19",
+      "name": "Nordic Oak & Brushed Brass Wall Clock",
+      "slug": "nordic-oak-brushed-brass-wall-clock",
+      "category": "Wall Clocks",
+      "categorySlug": "wall-clocks",
+      "collections": [
+        "The Little Luxuries"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Kitchen",
+        "Entryway"
+      ],
+      "price": 4400,
+      "originalPrice": 5200,
+      "discountPercent": 15,
+      "shortDescription": "Minimalist 30cm solid white oak disc with spun brass hour markers and silent sweep movement.",
+      "description": "A serene timekeeper crafted from kiln-dried white oak with fine chamfered edges and hand-spun brass hands. Whisper-quiet precision quartz mechanism.",
+      "details": {
+        "dimensions": "30 cm Diameter x 3.5 cm Depth",
+        "material": "Solid White Oak & Spun Brass",
+        "finish": "Matte Hardwax Oil & Brushed Brass",
+        "care": "Wipe with soft lint-free dry cloth. Requires 1 AA battery.",
+        "weight": "1.2 kg",
+        "origin": "Studio Cloudberry Wood Studio"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 15,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 19,
+      "colors": [
+        {
+          "name": "Natural Oak",
+          "hex": "#CDB18B"
+        }
+      ],
+      "tags": [
+        "Wall Clock",
+        "Clock",
+        "Oak",
+        "Brass",
+        "Minimalist"
+      ]
+    },
+    {
+      "id": "prod-20",
+      "name": "Carrara Fluted Marble Vanity Tray",
+      "slug": "carrara-fluted-marble-vanity-tray",
+      "category": "Decorative Trays",
+      "categorySlug": "decorative-trays",
+      "collections": [
+        "The Little Luxuries",
+        "The Neutral Edit"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom",
+        "Entryway"
+      ],
+      "price": 3400,
+      "originalPrice": 3990,
+      "discountPercent": 15,
+      "shortDescription": "Hand-carved natural Italian marble tray with delicately scalloped fluted perimeter.",
+      "description": "Carved from a single block of natural stone with soft undulating perimeter ridges. Perfect for gathering perfumes, jewelry, or artisanal candles.",
+      "details": {
+        "dimensions": "30 cm L x 18 cm W x 3 cm H",
+        "material": "100% Honed Natural Marble Stone",
+        "finish": "Matte Honed with Food-Safe Stain Barrier",
+        "care": "Wipe clean with a damp cloth. Avoid acidic cleaners.",
+        "weight": "2.4 kg",
+        "origin": "Precision Hand-Carved in Udaipur"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 14,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "rating": 5,
+      "reviewCount": 25,
+      "colors": [
+        {
+          "name": "Honed Carrara",
+          "hex": "#F3EFEA"
+        },
+        {
+          "name": "Warm Travertine",
+          "hex": "#DFD3C3"
+        }
+      ],
+      "tags": [
+        "Tray",
+        "Marble",
+        "Vanity",
+        "Decorative Tray",
+        "Tabletop"
+      ]
+    },
+    {
+      "id": "prod-21",
+      "name": "Kyoto Pedestal Stoneware Offering Bowl",
+      "slug": "kyoto-pedestal-stoneware-offering-bowl",
+      "category": "Vases & Bowls",
+      "categorySlug": "vases-bowls",
+      "collections": [
+        "Nature at Home",
+        "Slow Living"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Dining Room"
+      ],
+      "price": 3600,
+      "originalPrice": 4200,
+      "discountPercent": 14,
+      "shortDescription": "Elevated coarse ceramic offering bowl with matte chalk slip and raw unglazed foot.",
+      "description": "Wheel-thrown stoneware bowl set atop an architectural foot. Displays seasonal fruits, potpourri, or stands alone as an organic focal centerpiece.",
+      "details": {
+        "dimensions": "26 cm Diameter x 14 cm H",
+        "material": "Coarse Sand-Engobe Stoneware Clay",
+        "finish": "Matte Chalk White Glaze",
+        "care": "Hand wash with mild soap. Dry thoroughly.",
+        "weight": "1.95 kg",
+        "origin": "Khurja Studio Workshop"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 9,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "rating": 4.8,
+      "reviewCount": 16,
+      "colors": [
+        {
+          "name": "Chalk White",
+          "hex": "#FAF7F2"
+        },
+        {
+          "name": "Earthy Charcoal",
+          "hex": "#4A4039"
+        }
+      ],
+      "tags": [
+        "Bowl",
+        "Vase",
+        "Stoneware",
+        "Centerpiece",
+        "Pedestal"
+      ]
+    },
+    {
+      "id": "prod-22",
+      "name": "Honed Beige Travertine Arch Bookends (Pair)",
+      "slug": "honed-beige-travertine-arch-bookends",
+      "category": "Bookends",
+      "categorySlug": "bookends",
+      "collections": [
+        "The Little Luxuries",
+        "The Neutral Edit"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Reading Corner"
+      ],
+      "price": 3950,
+      "originalPrice": 4800,
+      "discountPercent": 18,
+      "shortDescription": "Solid monolithic roman travertine arches with non-slip cork bases to support fine art volumes.",
+      "description": "Hewn from heavyweight porous beige travertine with distinctive geological cavities. Heavy enough to firmly anchor art monographs and design literature.",
+      "details": {
+        "dimensions": "16 cm H x 12 cm W x 6 cm D (each)",
+        "material": "100% Natural Roman Travertine Stone",
+        "finish": "Matte Honed with Protective Felt Base",
+        "care": "Dust with dry microfiber cloth.",
+        "weight": "3.6 kg (pair)",
+        "origin": "Artisan Stoneworks, Rajasthan"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 16,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 22,
+      "colors": [
+        {
+          "name": "Warm Travertine",
+          "hex": "#DFD3C3"
+        }
+      ],
+      "tags": [
+        "Bookends",
+        "Travertine",
+        "Stone",
+        "Shelf Decor",
+        "Books"
+      ]
+    },
+    {
+      "id": "prod-23",
+      "name": "Solid Cast Brass Monolith Sculptural Bookends",
+      "slug": "solid-cast-brass-monolith-sculptural-bookends",
+      "category": "Bookends",
+      "categorySlug": "bookends",
+      "collections": [
+        "The Little Luxuries"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Reading Corner"
+      ],
+      "price": 5200,
+      "originalPrice": 6200,
+      "discountPercent": 16,
+      "shortDescription": "Geometric solid cast golden brass bookends with stepped sculptural bevels.",
+      "description": "Substantial, gleaming pure brass book stoppers that reflect warm ambient light across library shelves and consoles.",
+      "details": {
+        "dimensions": "14 cm H x 10 cm W x 7 cm D",
+        "material": "100% Solid Cast Brass",
+        "finish": "Hand-Polished Satin Brass with Clear Seal",
+        "care": "Wipe with soft cotton cloth.",
+        "weight": "2.8 kg (pair)",
+        "origin": "Brass Guild, Moradabad"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 10,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "rating": 5,
+      "reviewCount": 11,
+      "colors": [
+        {
+          "name": "Golden Brass",
+          "hex": "#C5A880"
+        }
+      ],
+      "tags": [
+        "Bookends",
+        "Brass",
+        "Sculptural",
+        "Luxury",
+        "Library"
+      ]
+    },
+    {
+      "id": "prod-24",
+      "name": "Natural White Oak Floating Gallery Frame",
+      "slug": "natural-white-oak-floating-gallery-frame",
+      "category": "Photo Frames",
+      "categorySlug": "photo-frames",
+      "collections": [
+        "The Neutral Edit",
+        "Slow Living"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom",
+        "Entryway"
+      ],
+      "price": 2100,
+      "originalPrice": 2600,
+      "discountPercent": 19,
+      "shortDescription": "Solid sustainably harvested white oak frame with museum-grade UV-filtering glass and archival linen mat.",
+      "description": "Showcase cherished family portraits or vintage botanical art with timeless understated sophistication. Accommodates 5x7 or 8x10 prints.",
+      "details": {
+        "dimensions": "28 cm H x 23 cm W x 2.5 cm D",
+        "material": "Solid American White Oak & Optical Glass",
+        "finish": "Natural Matte Wax with Dual Easel & Wall Hanger",
+        "care": "Clean glass with damp microfiber.",
+        "weight": "0.85 kg",
+        "origin": "Hand-Framed in Delhi Studio"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 24,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "rating": 4.8,
+      "reviewCount": 30,
+      "colors": [
+        {
+          "name": "Natural Oak",
+          "hex": "#C7B299"
+        },
+        {
+          "name": "Smoked Walnut",
+          "hex": "#5A4535"
+        }
+      ],
+      "tags": [
+        "Photo Frame",
+        "Oak",
+        "Frame",
+        "Wall Decor",
+        "Prints"
+      ]
+    },
+    {
+      "id": "prod-25",
+      "name": "Kyoto Pleated Linen Ceramic Table Lamp",
+      "slug": "kyoto-pleated-linen-ceramic-table-lamp",
+      "category": "Table Lamps",
+      "categorySlug": "table-lamps",
+      "collections": [
+        "The Neutral Edit",
+        "Slow Living"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "price": 6200,
+      "originalPrice": 7400,
+      "discountPercent": 16,
+      "shortDescription": "Hand-thrown fluted ceramic urn base with accordion pleated unbleached natural linen shade.",
+      "description": "Diffuses an intimate buttery glow across bedside consoles and living room side tables. Features antiqued brass rotary dimmer.",
+      "details": {
+        "dimensions": "48 cm H x 28 cm Shade Diameter",
+        "material": "Stoneware Clay & Natural Belgian Linen",
+        "finish": "Matte Sandy Bisque with Brass Accents",
+        "care": "Dust shade with dry feather duster. Compatible with E27 LED.",
+        "weight": "3.1 kg",
+        "origin": "Khurja Ceramic Guild"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 14,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "rating": 5,
+      "reviewCount": 29,
+      "colors": [
+        {
+          "name": "Cream Bisque",
+          "hex": "#F4ECE1"
+        },
+        {
+          "name": "Muted Sand",
+          "hex": "#D6C8B5"
+        }
+      ],
+      "tags": [
+        "Table Lamp",
+        "Lamp",
+        "Ceramic",
+        "Linen",
+        "Lighting"
+      ]
+    },
+    {
+      "id": "prod-26",
+      "name": "Aura Brass Arc Floor Lamp with Paper Lantern",
+      "slug": "aura-brass-arc-floor-lamp",
+      "category": "Floor Lamps",
+      "categorySlug": "floor-lamps",
+      "collections": [
+        "The Little Luxuries"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Reading Corner"
+      ],
+      "price": 12800,
+      "originalPrice": 15500,
+      "discountPercent": 17,
+      "shortDescription": "Gentle arching brushed brass stem suspended over a heavy travertine base with origami pleated shade.",
+      "description": "An architectural statement luminaire that casts generous warm light without overwhelming intimate living quarters. Heavy counterweighted honed travertine foot.",
+      "details": {
+        "dimensions": "165 cm H x 95 cm Reach x 35 cm Base Diameter",
+        "material": "Solid Brass, Honed Travertine & Washi Paper",
+        "finish": "Satin Brushed Brass with Sealed Travertine",
+        "care": "Dust with soft dry cloth. Foot pedal dimmer on fabric cord.",
+        "weight": "11.5 kg",
+        "origin": "Artisan Lighting Works, Moradabad"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 7,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 15,
+      "colors": [
+        {
+          "name": "Brushed Brass",
+          "hex": "#C8A46B"
+        }
+      ],
+      "tags": [
+        "Floor Lamp",
+        "Lamp",
+        "Brass",
+        "Living Room",
+        "Lighting"
+      ]
+    },
+    {
+      "id": "prod-27",
+      "name": "Normandy Washed French Linen Duvet Set",
+      "slug": "normandy-washed-french-linen-duvet-set",
+      "category": "Bedding & Linens",
+      "categorySlug": "bedding-linens",
+      "collections": [
+        "Slow Living",
+        "The Neutral Edit"
+      ],
+      "roomTags": [
+        "Bedroom"
+      ],
+      "price": 8900,
+      "originalPrice": 10500,
+      "discountPercent": 15,
+      "shortDescription": "Enzyme-washed pure flax linen duvet cover and two Oxford pillow shams with mother-of-pearl buttons.",
+      "description": "Woven from long-staple French flax for exceptional durability and year-round breathability. Pre-washed for heirloom softness that grows cozier with every laundering.",
+      "details": {
+        "dimensions": "King Duvet (260 cm x 220 cm) + 2 Shams (50 cm x 75 cm)",
+        "material": "100% Certified European Flax Linen (185 GSM)",
+        "finish": "Stone-Washed for Soft Lived-In Texture",
+        "care": "Machine wash warm on gentle cycle. Line dry or tumble dry low.",
+        "weight": "2.4 kg",
+        "origin": "Woven in Bhagalpur Weavers Collective"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 18,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "rating": 4.9,
+      "reviewCount": 42,
+      "colors": [
+        {
+          "name": "Natural Flax",
+          "hex": "#DFD5C6"
+        },
+        {
+          "name": "Muted Sage",
+          "hex": "#8F9B8B"
+        }
+      ],
+      "tags": [
+        "Bedding",
+        "Linen",
+        "Duvet",
+        "Sheets",
+        "Bedroom"
+      ]
+    },
+    {
+      "id": "prod-28",
+      "name": "Seraph Minimalist Cast Bronze Continuous Loop",
+      "slug": "seraph-cast-bronze-continuous-loop",
+      "category": "Decorative Sculptures",
+      "categorySlug": "decorative-sculptures",
+      "collections": [
+        "The Little Luxuries"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Reading Corner"
+      ],
+      "price": 4400,
+      "originalPrice": 5200,
+      "discountPercent": 15,
+      "shortDescription": "Heavy lost-wax cast bronze ribbon sculpture mounted on a honed black slate pedestal.",
+      "description": "An unending continuous form that shifts visual character from every viewpoint. Hand-poured in bronze with a warm fire-patina finish.",
+      "details": {
+        "dimensions": "22 cm H x 15 cm W x 12 cm D",
+        "material": "Solid Cast Silicon Bronze & Natural Slate",
+        "finish": "Warm Fire-Applied Amber Patina",
+        "care": "Dust with soft dry cloth.",
+        "weight": "2.1 kg",
+        "origin": "Sculpture Foundry, Jaipur"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 12,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 18,
+      "colors": [
+        {
+          "name": "Antique Bronze",
+          "hex": "#5A4535"
+        },
+        {
+          "name": "Golden Brass",
+          "hex": "#C5A880"
+        }
+      ],
+      "tags": [
+        "Sculpture",
+        "Bronze",
+        "Art",
+        "Objet",
+        "Living Room"
+      ]
+    },
+    {
+      "id": "prod-29",
+      "name": "Antiqued Brass Floating Glass Photo Frame",
+      "slug": "antiqued-brass-floating-glass-photo-frame",
+      "category": "Photo Frames",
+      "categorySlug": "photo-frames",
+      "collections": [
+        "The Little Luxuries"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom",
+        "Reading Corner"
+      ],
+      "price": 2450,
+      "originalPrice": 2900,
+      "discountPercent": 15,
+      "shortDescription": "Double-paned floating glass frame edged in slender warm antique brass with easel stand.",
+      "description": "Pressed botanical specimens, polaroids, and art prints float effortlessly between dual panels of crystal-clear tempered glass. Features a delicate soldered brass latch and sturdy standing chain.",
+      "details": {
+        "dimensions": "20 cm H x 15 cm W x 1.5 cm D",
+        "material": "Solid Brass & Dual Optical Glass Panes",
+        "finish": "Satin Antique Brass",
+        "care": "Wipe glass with soft damp cloth.",
+        "weight": "0.65 kg",
+        "origin": "Brass Craft Guild, Moradabad"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 19,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 14,
+      "colors": [
+        {
+          "name": "Antique Brass",
+          "hex": "#C5A880"
+        }
+      ],
+      "tags": [
+        "Photo Frames",
+        "Photo Frame",
+        "Brass",
+        "Floating Frame",
+        "Wall Decor"
+      ]
+    },
+    {
+      "id": "prod-30",
+      "name": "Aura Solid White Oak Floating Wall Shelf",
+      "slug": "aura-solid-white-oak-floating-wall-shelf",
+      "category": "Wall Shelves",
+      "categorySlug": "wall-shelves",
+      "collections": [
+        "The Neutral Edit",
+        "Slow Living"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom",
+        "Kitchen"
+      ],
+      "price": 3450,
+      "originalPrice": 4200,
+      "discountPercent": 18,
+      "shortDescription": "Solid sustainably harvested white oak floating display ledge with hidden steel mounting bracket.",
+      "description": "Designed to display your ceramic vessels, framed memories, and trailing indoor greenery. Features a subtle front lip to secure objects and completely invisible heavy-duty wall anchors.",
+      "details": {
+        "dimensions": "80 cm L x 18 cm D x 4 cm H",
+        "material": "100% Solid Kiln-Dried White Oak & Powder-Coated Steel Bracket",
+        "finish": "Matte Hardwax Oil Barrier",
+        "care": "Wipe with dry microfiber cloth. Max load 15 kg when mounted to studs.",
+        "weight": "3.4 kg",
+        "origin": "Artisan Wood Guild, Saharanpur"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1594026112284-02bb6f3352fe?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 16,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "rating": 5,
+      "reviewCount": 21,
+      "colors": [
+        {
+          "name": "Natural Oak",
+          "hex": "#C7B299"
+        },
+        {
+          "name": "Smoked Walnut",
+          "hex": "#5A4535"
+        }
+      ],
+      "tags": [
+        "Wall Shelves",
+        "Floating Shelf",
+        "Oak",
+        "Wall Decor",
+        "Living Room"
+      ]
+    },
+    {
+      "id": "prod-31",
+      "name": "Kanso Arched Brass & Glass Display Wall Shelf",
+      "slug": "kanso-arched-brass-glass-display-wall-shelf",
+      "category": "Wall Shelves",
+      "categorySlug": "wall-shelves",
+      "collections": [
+        "The Little Luxuries"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom",
+        "Entryway"
+      ],
+      "price": 4800,
+      "originalPrice": 5600,
+      "discountPercent": 14,
+      "shortDescription": "Architectural arched brass frame with two tiers of fluted tempered glass shelves.",
+      "description": "A wall-mounted jewel box that turns skincare bottles, small ceramics, or crystal votives into a curated exhibition. Hand-soldered solid brass construction with warm brushed satin finish.",
+      "details": {
+        "dimensions": "55 cm H x 35 cm W x 14 cm D",
+        "material": "Solid Brass Frame & Fluted Tempered Glass",
+        "finish": "Satin Brushed Brass",
+        "care": "Clean glass with glass spray; wipe frame with dry cloth.",
+        "weight": "2.8 kg",
+        "origin": "Moradabad Metalworks Guild"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 11,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 4.8,
+      "reviewCount": 9,
+      "colors": [
+        {
+          "name": "Brushed Brass",
+          "hex": "#C5A880"
+        }
+      ],
+      "tags": [
+        "Wall Shelves",
+        "Brass",
+        "Glass Shelf",
+        "Display Shelf",
+        "Living Room"
+      ]
+    },
+    {
+      "id": "prod-32",
+      "name": "Honed Alabaster Cylindrical Votive Holder",
+      "slug": "honed-alabaster-cylindrical-votive-holder",
+      "category": "Votive Holders",
+      "categorySlug": "votive-holders",
+      "collections": [
+        "The Little Luxuries",
+        "The Neutral Edit"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Bedroom",
+        "Dining Room"
+      ],
+      "price": 1750,
+      "originalPrice": 2100,
+      "discountPercent": 16,
+      "shortDescription": "Solid translucent natural alabaster cylinder that diffuses candlelight with golden warmth.",
+      "description": "Carved from single specimens of natural mineral alabaster stone. When lit from within by a tealight or votive candle, the organic stone veining illuminates in warm ethereal amber patterns.",
+      "details": {
+        "dimensions": "10 cm H x 8.5 cm Diameter",
+        "material": "100% Natural Translucent Alabaster Stone",
+        "finish": "Honed Matte with Felt Padded Base",
+        "care": "Wipe with soft dry cloth. Use standard tea lights or LED votives.",
+        "weight": "0.8 kg",
+        "origin": "Rajasthan Stone Carvers Guild"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 22,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "rating": 5,
+      "reviewCount": 19,
+      "colors": [
+        {
+          "name": "Warm Alabaster",
+          "hex": "#F7F3EB"
+        }
+      ],
+      "tags": [
+        "Votive Holders",
+        "Votive",
+        "Candle Holder",
+        "Alabaster",
+        "Tabletop"
+      ]
+    },
+    {
+      "id": "prod-33",
+      "name": "Artisan Hammered Brass Petal Votive Holder",
+      "slug": "artisan-hammered-brass-petal-votive-holder",
+      "category": "Votive Holders",
+      "categorySlug": "votive-holders",
+      "collections": [
+        "The Little Luxuries"
+      ],
+      "roomTags": [
+        "Living Room",
+        "Dining Room"
+      ],
+      "price": 2150,
+      "originalPrice": 2550,
+      "discountPercent": 15,
+      "shortDescription": "Hand-hammered solid golden brass lotus cup that casts shimmering reflections.",
+      "description": "Each petal facet is hand-planished by generational metalsmiths to maximize flickering candlelight reflections across tabletops, consoles, and mantels.",
+      "details": {
+        "dimensions": "8 cm H x 11 cm Diameter",
+        "material": "100% Solid Cast & Hammered Brass",
+        "finish": "Polished Honey Brass with Protective Clear Seal",
+        "care": "Wipe clean with soft microfiber cloth.",
+        "weight": "0.55 kg",
+        "origin": "Aligarh Metal Guild"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1577083552431-6e5fd01aa342?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "inStock": true,
+      "stockCount": 17,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 12,
+      "colors": [
+        {
+          "name": "Honey Brass",
+          "hex": "#C5A880"
+        }
+      ],
+      "tags": [
+        "Votive Holders",
+        "Votive",
+        "Brass",
+        "Tealight",
+        "Candle Holder"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-living-room",
+      "name": "Living Room Decor",
+      "slug": "living-room-decor",
+      "description": "Sculptural objects, marble trays, and conversation accents.",
+      "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 14,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-bedroom",
+      "name": "Bedroom Decor",
+      "slug": "bedroom-decor",
+      "description": "Soothing textures, bedside ceramics, and tranquil lighting.",
+      "image": "https://images.unsplash.com/photo-1540518614846-7ede433c4ef4?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 10,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-wall-art",
+      "name": "Wall Art",
+      "slug": "wall-art",
+      "description": "Textured plaster reliefs, framed botanical prints, and minimalist canvases.",
+      "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 8,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-mirrors",
+      "name": "Mirrors",
+      "slug": "mirrors",
+      "description": "Arch brass mirrors, organic wood silhouettes, and bevelled glass.",
+      "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 6,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-vases",
+      "name": "Vases",
+      "slug": "vases",
+      "description": "Artisanal stoneware, fluted alabaster, and organic terracotta vessels.",
+      "image": "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 12,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-planters",
+      "name": "Planters",
+      "slug": "planters",
+      "description": "Footed ceramic pots, ribbed clay urns, and aged sandstone planters.",
+      "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 7,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-lighting",
+      "name": "Lighting",
+      "slug": "lighting",
+      "description": "Warm ambient glow, sculptural sconces, and pleated paper pendants.",
+      "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 9,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-lamps",
+      "name": "Lamps",
+      "slug": "lamps",
+      "description": "Brushed brass domes, fluted ceramic bases, and linen-shade bedside lamps.",
+      "image": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 11,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-candles",
+      "name": "Candles",
+      "slug": "candles",
+      "description": "Hand-poured pure soy wax, sandalwood, wild fig, and amber vessels.",
+      "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 8,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-cushions",
+      "name": "Cushions",
+      "slug": "cushions",
+      "description": "Raw Belgian linen, bouclé textures, and earthy sage cushions.",
+      "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 10,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-throws",
+      "name": "Throws",
+      "slug": "throws",
+      "description": "Waffle weave cotton, merino wool blankets, and fringed cashmere.",
+      "image": "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 6,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-table-decor",
+      "name": "Table Decor",
+      "slug": "table-decor",
+      "description": "Travertine catchalls, walnut centerpieces, and brass candle holders.",
+      "image": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 9,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-flowers",
+      "name": "Artificial Flowers",
+      "slug": "artificial-flowers",
+      "description": "Real-touch olive branches, dried pampas plumes, and faux eucalyptus.",
+      "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 7,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-storage",
+      "name": "Storage & Handmade Decor",
+      "slug": "storage",
+      "description": "Woven seagrass baskets, mango wood caddies, and artisan carved boxes.",
+      "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 8,
+      "isLegacy": true
+    },
+    {
+      "id": "cat-rugs-carpets",
+      "name": "Rugs & Carpets",
+      "slug": "rugs-carpets",
+      "description": "Plush hand-tufted bouclé wool and natural organic jute floor coverings.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 2,
+      "isLegacy": false
+    },
+    {
+      "id": "cat-clocks",
+      "name": "Clocks",
+      "slug": "clocks",
+      "description": "Silent sweep wall timepieces and mantel clocks crafted in solid white oak and spun brass.",
+      "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 2,
+      "isLegacy": false
+    },
+    {
+      "id": "cat-photo-frames",
+      "name": "Photo Frames",
+      "slug": "photo-frames",
+      "description": "Gallery-grade solid white oak and antiqued brass floating glass frames.",
+      "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 2,
+      "isLegacy": false
+    },
+    {
+      "id": "cat-wall-shelves",
+      "name": "Wall Shelves",
+      "slug": "wall-shelves",
+      "description": "Architectural floating shelves in natural white oak and slender aged brass.",
+      "image": "https://images.unsplash.com/photo-1594026112284-02bb6f3352fe?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 2,
+      "isLegacy": false
+    },
+    {
+      "id": "cat-decorative-bowls-trays",
+      "name": "Decorative Bowls & Trays",
+      "slug": "decorative-bowls-trays",
+      "description": "Honed Carrara marble, fluted edges, and artisan turned mango wood trays and pedestal bowls.",
+      "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 3,
+      "isLegacy": false
+    },
+    {
+      "id": "cat-votive-holders",
+      "name": "Votive Holders",
+      "slug": "votive-holders",
+      "description": "Honed translucent alabaster and solid hammered brass tea light votive holders.",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 2,
+      "isLegacy": false
+    }
+  ],
+  "collections": [
+    {
+      "id": "col-neutral-edit",
+      "name": "The Neutral Edit",
+      "slug": "the-neutral-edit",
+      "tagline": "Tones of bone, oatmeal, and raw travertine.",
+      "description": "A calming curation of cream, ivory, and beige essentials designed to bring peaceful cohesion to modern homes.",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1200&q=80",
+      "itemCount": 16
+    },
+    {
+      "id": "col-little-luxuries",
+      "name": "The Little Luxuries",
+      "slug": "the-little-luxuries",
+      "tagline": "Artisanal accents that whisper sophistication.",
+      "description": "Small touches of solid brass, hand-blown fluted glass, and polished marble to transform everyday vignettes.",
+      "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1200&q=80",
+      "itemCount": 12
+    },
+    {
+      "id": "col-nature-at-home",
+      "name": "Nature at Home",
+      "slug": "nature-at-home",
+      "tagline": "Organic textures of clay, linen, and wild botanicals.",
+      "description": "Bringing the quiet beauty of the outdoors inside with earthen ceramics, tactile jute, and real-touch olive stems.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "itemCount": 14
+    },
+    {
+      "id": "col-slow-living",
+      "name": "Slow Living",
+      "slug": "slow-living",
+      "tagline": "Designed for lingering mornings and restful evenings.",
+      "description": "Mindfully crafted pieces created to cultivate tranquility, presence, and calm throughout your living spaces.",
+      "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80",
+      "itemCount": 11
+    },
+    {
+      "id": "col-seasonal-beauty",
+      "name": "Seasonal Beauty",
+      "slug": "seasonal-beauty",
+      "tagline": "Warm amber glows and harvest-inspired palettes.",
+      "description": "Rich mocha tones, spiced cedar aromas, and layered textured throws celebrating changing rhythms of home.",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "itemCount": 9
+    }
+  ],
+  "rooms": [
+    {
+      "id": "room-living",
+      "title": "The Living Sanctuary",
+      "roomType": "Living Room",
+      "tagline": "Curated harmony with warm linen, natural oak, and earthen ceramics.",
+      "description": "An airy, serene sanctuary built around a low-profile cream sofa, tactile cushions, ribbed travertine vessel, and warm diffused lighting.",
+      "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+      "stylingTips": [
+        "Layer varied textures in a monochromatic palette (bouclé, washed linen, smooth ceramic).",
+        "Anchor the seating with a wide low-profile solid oak or travertine coffee table.",
+        "Group objects in threes: one tall vessel with dried flora, one art book, and a low marble bowl."
+      ],
+      "productIds": [
+        "prod-01",
+        "prod-04",
+        "prod-08",
+        "prod-12"
+      ]
+    },
+    {
+      "id": "room-bedroom",
+      "title": "The Serene Bedroom",
+      "roomType": "Bedroom",
+      "tagline": "Quiet tones and soft tactile layers for profound rest.",
+      "description": "Designed as a soothing sanctuary from the bustle of the day with washed oatmeal linens, glowing bedside lamps, and soothing scents.",
+      "image": "https://images.unsplash.com/photo-1540518614846-7ede433c4ef4?auto=format&fit=crop&w=1200&q=80",
+      "stylingTips": [
+        "Keep bedside surfaces clean with a single warm alabaster lamp and evening water carafe.",
+        "Introduce a contrast lumbar pillow in muted sage or mocha against cream bedding.",
+        "Drape a heavy waffle throw across the foot of the bed for dimensional warmth."
+      ],
+      "productIds": [
+        "prod-02",
+        "prod-05",
+        "prod-09",
+        "prod-11"
+      ]
+    },
+    {
+      "id": "room-reading",
+      "title": "The Solitude Reading Nook",
+      "roomType": "Reading Corner",
+      "tagline": "A comfortable corner dedicated to books, contemplation, and tea.",
+      "description": "Featuring a curved cream armchair, sculptural brushed brass reading lamp, travertine pedestal table, and cashmere throw.",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1200&q=80",
+      "stylingTips": [
+        "Position adjacent to a natural window light source, supplemented by a targeted downward brass reading lamp.",
+        "Include a small pedestal table within easy arm reach for a warm cup and open book.",
+        "Add a soft high-pile wool or jute rug to define the dedicated reading zone."
+      ],
+      "productIds": [
+        "prod-03",
+        "prod-07",
+        "prod-10",
+        "prod-14"
+      ]
+    },
+    {
+      "id": "room-dining",
+      "title": "The Artful Dining Table",
+      "roomType": "Dining Room",
+      "tagline": "Intimate gatherings framed by organic stoneware and soft candlelight.",
+      "description": "A solid wood table dressed with artisanal ceramic vessels, fluted taper candleholders, linen napkins, and sculpted olive branches.",
+      "image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=1200&q=80",
+      "stylingTips": [
+        "Use an asymmetrical runner made from washed Belgian linen left unhemmed.",
+        "Mix tapered beeswax candles in varying brass and ceramic heights down the table centerline.",
+        "Incorporate real-touch olive stems in a low wide-mouth stoneware jug so sightlines remain open."
+      ],
+      "productIds": [
+        "prod-01",
+        "prod-06",
+        "prod-15",
+        "prod-13"
+      ]
+    },
+    {
+      "id": "room-entry",
+      "title": "The Earthy Entryway",
+      "roomType": "Entryway",
+      "tagline": "A calm, welcoming first impression with natural wood and brass accents.",
+      "description": "An elegant entryway console featuring an arch brass mirror, ribbed ceramic catchall for essentials, and a botanical ceramic vessel.",
+      "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
+      "stylingTips": [
+        "Hang an arch mirror above the console table to reflect natural light and open the foyer.",
+        "Use a shallow travertine or brass tray to gather keys and small pocket items elegantly.",
+        "Introduce a signature welcome scent with a slow-burning sandalwood ceramic candle."
+      ],
+      "productIds": [
+        "prod-06",
+        "prod-07",
+        "prod-09",
+        "prod-16"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-01",
+      "productId": "prod-01",
+      "userName": "Aarushi Sharma",
+      "userLocation": "Mumbai, Maharashtra",
+      "rating": 5,
+      "title": "Exceeded every expectation — truly heirloom quality",
+      "comment": "The Aura vase is even more stunning in person than in the photos. The subtle vertical ribs catch the morning light so elegantly. Packaged impeccably with zero plastic and arrived in Mumbai in 3 days!",
+      "date": "March 28, 2026",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-02",
+      "productId": "prod-01",
+      "userName": "Vikramaditya Mehta",
+      "userLocation": "Bengaluru, Karnataka",
+      "rating": 5,
+      "title": "Perfect centerpiece for our light oak dining table",
+      "comment": "The texture is earthy and authentic, not like cheap mass-produced ceramic. Cloudberry Home has truly nailed the warm minimalist aesthetic.",
+      "date": "April 2, 2026",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-03",
+      "productId": "prod-02",
+      "userName": "Meera Sengupta",
+      "userLocation": "New Delhi",
+      "rating": 5,
+      "title": "The warm glow transforms our entire bedroom",
+      "comment": "The alabaster stone has gorgeous subtle veining that glows when illuminated. Heavy, solid brass fittings, and the linen drum shade gives a luxurious warm hotel-like ambiance.",
+      "date": "April 6, 2026",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-04",
+      "productId": "prod-03",
+      "userName": "Rhea Nambiar",
+      "userLocation": "Kochi, Kerala",
+      "rating": 5,
+      "title": "Sublime Belgian linen texture",
+      "comment": "The frayed fringe is delicate yet sturdy, and the linen fabric is pre-washed so it feels wonderfully soft immediately. The oatmeal colour is pure warmth.",
+      "date": "April 10, 2026",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-05",
+      "productId": "prod-05",
+      "userName": "Ananya Deshmukh",
+      "userLocation": "Pune, Maharashtra",
+      "rating": 5,
+      "title": "Heavenly aroma and crackling wood wick",
+      "comment": "The sandalwood and wild fig fragrance fills our entire living room without being overpowering. The ceramic pot is gorgeous enough to reuse as a desk planter afterwards.",
+      "date": "April 12, 2026",
+      "verifiedPurchase": true
+    }
+  ],
+  "coupons": [
+    {
+      "code": "CLOUDBERRY10",
+      "discountType": "percent",
+      "value": 10,
+      "minOrder": 1500,
+      "description": "10% off on all home decor essentials (Min. order ₹1,500)"
+    },
+    {
+      "code": "WELCOME500",
+      "discountType": "fixed",
+      "value": 500,
+      "minOrder": 2500,
+      "description": "₹500 flat discount for your beautiful new home (Min. order ₹2,500)"
+    },
+    {
+      "code": "FESTIVE15",
+      "discountType": "percent",
+      "value": 15,
+      "minOrder": 4000,
+      "description": "15% off on curated luxury collections (Min. order ₹4,000)"
+    },
+    {
+      "code": "FREESHIP",
+      "discountType": "freeship",
+      "value": 150,
+      "minOrder": 999,
+      "description": "Complimentary standard express shipping across India"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-demo-1",
+      "name": "Ridhi Gupta",
+      "email": "ridhig211@gmail.com",
+      "phone": "+91 98201 44521",
+      "role": "customer",
+      "createdAt": "2026-01-15T10:00:00Z",
+      "addresses": [
+        {
+          "id": "addr-1",
+          "fullName": "Ridhi Gupta",
+          "phone": "+91 98201 44521",
+          "street": "402, Magnolia Residency, Bandra West",
+          "apartment": "Near Carter Road Promenade",
+          "landmark": "Behind Olive Bar",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "pincode": "400050",
+          "isDefault": true,
+          "type": "Home"
+        },
+        {
+          "id": "addr-2",
+          "fullName": "Ridhi Gupta",
+          "phone": "+91 98201 44521",
+          "street": "Studio 12, Indiranagar 100ft Road",
+          "apartment": "2nd Floor, Design Loft",
+          "landmark": "Opposite Toit",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "pincode": "560038",
+          "isDefault": false,
+          "type": "Work"
+        }
+      ]
+    },
+    {
+      "id": "usr-admin-1",
+      "name": "Cloudberry Atelier Admin",
+      "email": "admin@cloudberryhome.com",
+      "phone": "+91 99999 12345",
+      "role": "admin",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "addresses": []
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1792645096505",
+      "orderNumber": "CBH-42303",
+      "userId": "usr-1",
+      "customerName": "Rohan Sharma",
+      "customerEmail": "rohan.sharma@example.com",
+      "customerPhone": "+91 98201 55678",
+      "shippingAddress": {
+        "fullName": "Rohan Sharma",
+        "phone": "+91 98201 55678",
+        "street": "14 Silver Oak Lane",
+        "apartment": "Apt 4B",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400050",
+        "type": "home"
+      },
+      "items": [
+        {
+          "productId": "p1",
+          "productName": "Aura Fluted Ceramic Vase",
+          "price": 2899,
+          "quantity": 1,
+          "selectedColor": "Warm Sand"
+        }
+      ],
+      "subtotal": 2899,
+      "discount": 0,
+      "shippingFee": 0,
+      "total": 2899,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "status": "Processing",
+      "trackingNumber": "DEL-IN-98777646",
+      "courier": "Delhivery Express Air",
+      "timeline": [
+        {
+          "status": "Order Placed",
+          "title": "Order Received & Confirmed",
+          "description": "Cash on Delivery order placed with verified phone.",
+          "timestamp": "22 Oct 2026, 04:58 am"
+        },
+        {
+          "status": "Processing",
+          "title": "Studio Quality Inspection",
+          "description": "Items being carefully wrapped in protective linen & honeycomb board.",
+          "timestamp": "22 Oct 2026, 04:58 am"
+        }
+      ],
+      "createdAt": "2026-10-22T04:58:16.500Z"
+    },
+    {
+      "id": "ord-1792385766062",
+      "orderNumber": "CBH-75983",
+      "customerName": "Ridhi Gupta",
+      "customerEmail": "ridhig211@gmail.com",
+      "customerPhone": "+91 98201 44521",
+      "shippingAddress": {
+        "fullName": "Ridhi Gupta",
+        "phone": "+91 98201 44521",
+        "street": "402, Magnolia Residency, Bandra West",
+        "apartment": "Near Carter Road Promenade",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400050",
+        "type": "Home"
+      },
+      "items": [
+        {
+          "productId": "prod-01",
+          "productName": "Aura Ribbed Stoneware Vase",
+          "productImage": "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?auto=format&fit=crop&w=1000&q=80",
+          "price": 3250,
+          "quantity": 1,
+          "selectedColor": "Warm Bone"
+        }
+      ],
+      "subtotal": 3250,
+      "discount": 0,
+      "shippingFee": 0,
+      "total": 3250,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "razorpayPaymentId": "pay_d5buf8s8s",
+      "status": "Processing",
+      "trackingNumber": "DEL-IN-65694401",
+      "courier": "Delhivery Express Air",
+      "timeline": [
+        {
+          "status": "Order Placed",
+          "title": "Order Received & Confirmed",
+          "description": "Payment secured and verified via Razorpay.",
+          "timestamp": "19 Oct 2026, 04:56 am"
+        },
+        {
+          "status": "Processing",
+          "title": "Studio Quality Inspection",
+          "description": "Items being carefully wrapped in protective linen & honeycomb board.",
+          "timestamp": "19 Oct 2026, 04:56 am"
+        }
+      ],
+      "createdAt": "2026-10-19T04:56:06.061Z"
+    },
+    {
+      "id": "ord-101",
+      "orderNumber": "CBH-82914",
+      "userId": "usr-demo-1",
+      "customerName": "Ridhi Gupta",
+      "customerEmail": "ridhig211@gmail.com",
+      "customerPhone": "+91 98201 44521",
+      "shippingAddress": {
+        "id": "addr-1",
+        "fullName": "Ridhi Gupta",
+        "phone": "+91 98201 44521",
+        "street": "402, Magnolia Residency, Bandra West",
+        "apartment": "Near Carter Road Promenade",
+        "landmark": "Behind Olive Bar",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400050",
+        "isDefault": true,
+        "type": "Home"
+      },
+      "items": [
+        {
+          "productId": "prod-01",
+          "productName": "Aura Ribbed Stoneware Vase",
+          "productImage": "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?auto=format&fit=crop&w=600&q=80",
+          "price": 3250,
+          "quantity": 1,
+          "selectedColor": "Warm Bone"
+        },
+        {
+          "productId": "prod-05",
+          "productName": "Sandalwood & Wild Fig Ceramic Scented Candle",
+          "productImage": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=600&q=80",
+          "price": 1850,
+          "quantity": 1,
+          "selectedColor": "Warm Terracotta"
+        }
+      ],
+      "subtotal": 5100,
+      "discount": 510,
+      "couponCode": "CLOUDBERRY10",
+      "shippingFee": 0,
+      "total": 4590,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "razorpayPaymentId": "pay_Nz99Ka7B18xLQm",
+      "status": "Shipped",
+      "trackingNumber": "DEL-IN-98124801",
+      "courier": "Delhivery Express",
+      "timeline": [
+        {
+          "status": "Order Placed",
+          "title": "Order Confirmed & Received",
+          "description": "Payment verified via Razorpay UPI. Order assigned to studio packing.",
+          "timestamp": "14 Oct 2026, 11:20 AM"
+        },
+        {
+          "status": "Packed",
+          "title": "Hand-Inspected & Eco-Packaged",
+          "description": "Wrapped in recycled honeycomb paper with custom wax-seal care card.",
+          "timestamp": "14 Oct 2026, 04:45 PM"
+        },
+        {
+          "status": "Shipped",
+          "title": "Dispatched via Delhivery Express",
+          "description": "In transit from Cloudberry Central Studio (Bhiwandi Hub).",
+          "timestamp": "15 Oct 2026, 09:15 AM"
+        }
+      ],
+      "createdAt": "2026-10-14T11:20:00Z"
+    }
+  ]
+}
