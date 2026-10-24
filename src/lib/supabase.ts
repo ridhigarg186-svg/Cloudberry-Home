@@ -3,17 +3,34 @@ import { Order } from '../types';
 
 export const SUPABASE_PROJECT_REF = 'dkursaukdesmrnyuxjvt';
 
-export const SUPABASE_URL =
+export function normalizeSupabaseUrl(rawUrl?: string): string {
+  if (!rawUrl || typeof rawUrl !== 'string' || !rawUrl.trim()) {
+    return 'https://dkursaukdesmrnyuxjvt.supabase.co';
+  }
+  let clean = rawUrl.trim();
+  if (!clean.startsWith('http://') && !clean.startsWith('https://')) {
+    if (clean.includes('.supabase.co')) {
+      clean = `https://${clean}`;
+    } else {
+      clean = `https://${clean}.supabase.co`;
+    }
+  }
+  return clean;
+}
+
+const rawClientUrl =
   (typeof import.meta !== 'undefined' && import.meta.env?.VITE_SUPABASE_URL) ||
-  process.env.VITE_SUPABASE_URL ||
-  process.env.SUPABASE_URL ||
+  (typeof process !== 'undefined' && (process.env.VITE_SUPABASE_URL || process.env.SUPABASE_URL)) ||
   'https://dkursaukdesmrnyuxjvt.supabase.co';
 
-export const SUPABASE_ANON_KEY =
+export const SUPABASE_URL = normalizeSupabaseUrl(rawClientUrl);
+
+const rawClientKey =
   (typeof import.meta !== 'undefined' && import.meta.env?.VITE_SUPABASE_ANON_KEY) ||
-  process.env.VITE_SUPABASE_ANON_KEY ||
-  process.env.SUPABASE_ANON_KEY ||
+  (typeof process !== 'undefined' && (process.env.VITE_SUPABASE_ANON_KEY || process.env.SUPABASE_ANON_KEY)) ||
   'sb_publishable_tt2fG15VTHp9KbXWN_VkDg_GDRIoWNF';
+
+export const SUPABASE_ANON_KEY = (rawClientKey && rawClientKey.trim()) || 'sb_publishable_tt2fG15VTHp9KbXWN_VkDg_GDRIoWNF';
 
 export const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 

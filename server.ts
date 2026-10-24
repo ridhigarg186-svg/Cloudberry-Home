@@ -22,8 +22,27 @@ const __dirname = path.dirname(__filename);
 
 // Supabase configuration from user provided credentials
 export const SUPABASE_PROJECT_REF = 'dkursaukdesmrnyuxjvt';
-const SUPABASE_URL = process.env.SUPABASE_URL || 'https://dkursaukdesmrnyuxjvt.supabase.co';
-const SUPABASE_ANON_KEY = process.env.SUPABASE_ANON_KEY || 'sb_publishable_tt2fG15VTHp9KbXWN_VkDg_GDRIoWNF';
+
+export function normalizeSupabaseUrl(rawUrl?: string): string {
+  if (!rawUrl || typeof rawUrl !== 'string' || !rawUrl.trim()) {
+    return 'https://dkursaukdesmrnyuxjvt.supabase.co';
+  }
+  let clean = rawUrl.trim();
+  if (!clean.startsWith('http://') && !clean.startsWith('https://')) {
+    if (clean.includes('.supabase.co')) {
+      clean = `https://${clean}`;
+    } else {
+      clean = `https://${clean}.supabase.co`;
+    }
+  }
+  return clean;
+}
+
+const rawUrl = process.env.SUPABASE_URL || process.env.VITE_SUPABASE_URL;
+const rawKey = process.env.SUPABASE_ANON_KEY || process.env.VITE_SUPABASE_ANON_KEY;
+
+export const SUPABASE_URL = normalizeSupabaseUrl(rawUrl);
+export const SUPABASE_ANON_KEY = (rawKey && rawKey.trim()) || 'sb_publishable_tt2fG15VTHp9KbXWN_VkDg_GDRIoWNF';
 export const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
 // Data store path

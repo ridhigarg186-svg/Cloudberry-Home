@@ -33,7 +33,7 @@
         "https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=1000&q=80"
       ],
       "inStock": true,
-      "stockCount": 17,
+      "stockCount": 16,
       "isFeatured": true,
       "isNewArrival": true,
       "isBestSeller": true,
@@ -2276,6 +2276,57 @@
     }
   ],
   "orders": [
+    {
+      "id": "ord-1792648777575",
+      "orderNumber": "CBH-55863",
+      "userId": "usr-1",
+      "customerName": "Ridhi Gupta",
+      "customerEmail": "ridhig211@gmail.com",
+      "customerPhone": "+91 98201 44521",
+      "shippingAddress": {
+        "fullName": "Ridhi Gupta",
+        "phone": "+91 98201 44521",
+        "street": "24 Magnolia Crescent",
+        "apartment": "Suite 8A",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400050",
+        "type": "home"
+      },
+      "items": [
+        {
+          "productId": "prod-01",
+          "productName": "Aura Ribbed Stoneware Vase",
+          "price": 2899,
+          "quantity": 1,
+          "selectedColor": "Warm Sand"
+        }
+      ],
+      "subtotal": 2899,
+      "discount": 0,
+      "shippingFee": 0,
+      "total": 2899,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "status": "Processing",
+      "trackingNumber": "DEL-IN-15688090",
+      "courier": "Delhivery Express Air",
+      "timeline": [
+        {
+          "status": "Order Placed",
+          "title": "Order Received & Confirmed",
+          "description": "Cash on Delivery order placed with verified phone.",
+          "timestamp": "22 Oct 2026, 05:59 am"
+        },
+        {
+          "status": "Processing",
+          "title": "Studio Quality Inspection",
+          "description": "Items being carefully wrapped in protective linen & honeycomb board.",
+          "timestamp": "22 Oct 2026, 05:59 am"
+        }
+      ],
+      "createdAt": "2026-10-22T05:59:37.574Z"
+    },
     {
       "id": "ord-1792645096505",
       "orderNumber": "CBH-42303",
